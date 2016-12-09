@@ -1,0 +1,12 @@
+[submodule "flex-backend"]
+	path = flex-backend
+	url = https://github.com/MagnificRogue/flex-backend
+[submodule "flex-mobile"]
+	path = flex-mobile
+	url = https://github.com/MagnificRogue/flex-mobile
+[submodule "flex-desktop"]
+	path = flex-desktop
+	url = https://github.com/MagnificRogue/flex-desktop
+[submodule "flex-web"]
+	path = flex-web
+	url = https://github.com/MagnificRogue/flex-web
